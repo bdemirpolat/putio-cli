@@ -1,4 +1,9 @@
 ![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)
+![Go](https://img.shields.io/badge/go-1.16-black.svg)
+[![Documentation](https://godoc.org/github.com/vigo/putio-cli?status.svg)](https://pkg.go.dev/github.com/vigo/putio-cli)
+[![Go Report Card](https://goreportcard.com/badge/github.com/vigo/putio-cli)](https://goreportcard.com/report/github.com/vigo/putio-cli)
+![Go Build Status](https://github.com/vigo/putio-cli/actions/workflows/go.yml/badge.svg)
+
 
 # put.io cli client
 
